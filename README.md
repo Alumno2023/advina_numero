@@ -1,2 +1,2 @@
 # advina_numero
-JUego de advinar
+Juego de advinar
